@@ -7,32 +7,42 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,html,css,tailwind,materialui,sass,angular,svelte,redux&perline=10" />
   </a>
+</p>
 <br>
 
+<p align="center">
    <h3>Mobile</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart,androidstudio,apple,gradle&perline=10" />
   </a>
+</p>
 <br>
 
+<p align="center">
    <h3>Backend</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,net,go,rust,laravel,php,nestjs,spring,fastapi,express,graphql,postgresql,mongodb,mysql,prisma&perline=10" />
   </a>
+</p>
 <br>
 
+<p align="center">
    <h3>Games</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,threejs,godot,blender&perline=10" />
   </a>
+</p>
 <br>
 
+<p align="center">
    <h3>Devops</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,terraform,jenkins,nginx,linux,redis,prometheus,grafana,ansible&perline=10" />
   </a>
+</p>
 <br>
 
+<p align="center">
    <h3>Cloud</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel,heroku&perline=10" />
