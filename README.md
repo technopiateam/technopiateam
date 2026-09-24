@@ -5,13 +5,13 @@
 <p align="center">
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,sass,angular,svelte,redux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,html,css,tailwind,materialui,sass,angular,svelte,redux&perline=10" />
   </a>
 <br>
 
    <h3>Mobile</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart,android,apple&perline=10" />
+    <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart,androidstudio,apple,gradle&perline=10" />
   </a>
 <br>
 
@@ -35,7 +35,7 @@
 
    <h3>Cloud</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel,heroku&perline=10" />
   </a>
 
 </p>
