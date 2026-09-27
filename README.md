@@ -24,7 +24,7 @@
   </a>
 <br>
 
-   <h3>Devops</h3>
+   <h3>DevOps</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,terraform,jenkins,nginx,linux,redis,prometheus,grafana,ansible&perline=10" />
   </a>
